@@ -7,3 +7,5 @@ mencari bentuk aplikasi yang menggunakan User Navigation (Navigation Drawer, Bot
 
 Aplikasi Pilihan: Mi Music
 Layout Bottom Navigation dari Mi Music
+
+[demo](04NavAssignment/demo/demo.gif)
